@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gisApp"
+  id="myeclipse.1432518564977"
+  context-root="/gisApp"
+  j2ee-spec="5.0"
+  archive="gisApp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

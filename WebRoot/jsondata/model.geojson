@@ -1,0 +1,21 @@
+{
+	"cameras":[{
+		"angle":340,
+		"id":144
+	},
+	{
+		"angle":160,
+		"id":145
+	}],
+	"photo":"photo/83.jpg",
+	"geometry":{
+		"coordinates":[121.538391113281,38.8739701342833],
+		"type":"Point"
+	},
+	"type":"Feature",
+	"properties":{
+		"name":"积学路口1",
+		"id":86,
+		"type":"scu"
+	}
+}

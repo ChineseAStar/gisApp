@@ -1,0 +1,21 @@
+[{
+	"id":1,
+	"text":"地图元素树",
+	"children":[{
+		"id":11,
+		"text":"点元素",
+		"iconCls":"icon-point",
+		"children":[]
+	},{
+		"id":12,
+		"text":"线元素",
+		"state":"closed",
+		"iconCls":"icon-line",
+		"children":[]
+	},{
+		"id":13,
+		"text":"面元素",
+		"iconCls":"icon-polygon",
+		"children":[]
+	}]
+}]

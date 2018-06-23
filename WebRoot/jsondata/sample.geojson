@@ -1,0 +1,48 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"id": 1,
+			"name": "孔子",
+			"type": "scu"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.52266455609701,
+			38.868551879275785]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 2,
+			"name": "哥伦布",
+			"type": "scu"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.52636422487865,
+			38.869825622323233]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 3,
+			"name": "心海",
+			"type": "scenes"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.5235734342659,
+			38.869567545510264]
+		}
+	}]
+}
